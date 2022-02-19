@@ -1,0 +1,45 @@
+
+[32;1m  Id     Duration CommandLine[0m
+[32;1m  --     -------- -----------[0m
+   1        2.666 dir
+   2        0.084 git status
+   3        0.070 git add Readme.md
+   4        0.041 git status
+   5        0.102 git commit -m "Segundo commit - Treinamento Git"
+   6        0.037 git status
+   7        0.069 git remote add origin https://github.com/rogerskywalkerbr/DevTeamGit.git
+   8     2:48.403 git push -u origin main
+   9        0.004 dir
+  10        0.003 dir
+  11        2.608 git add .
+  12        0.039 git status
+  13        2.639 git commit -m "Terceiro commit - Treinamento Git"
+  14        1.824 git push origin main
+  15        0.046 git status
+  16        2.713 git checkout -b "TreinaGit-Func01"
+  17        0.004 dir
+  18        0.046 git add .
+  19        0.036 git status
+  20        2.590 git commit -m "Inicio da funcionalidade 01"
+  21        1.746 git push origin TreinaGit-Func01
+  22        2.599 git checkout main
+  23        0.062 git checkout TreinaGit-Func01
+  24        0.044 git checkout main
+  25        0.096 git merge TreinaGit-Func01
+  26        1.701 git push origin main
+  27        0.040 git status
+  28        2.630 git checkout -b TreinaGit-Func02
+  29        0.036 git status
+  30        0.007 dir
+  31        0.067 git add TreinaGit-Func02.md
+  32        0.094 git commit -m "Inicio da funcionalidade 02"
+  33        4.178 git push origin TreinaGit-Func02
+  34        0.037 git status
+  35        0.005 dir
+  36        0.050 git checkout main
+  37        2.860 git merge TreinaGit-Func02
+  38        2.011 git push origin main
+  39        0.053 git status
+  40        3.189 history > D:\Actions - Development\History Sessions\Work001.view
+  41        0.060 history
+
